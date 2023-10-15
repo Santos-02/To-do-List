@@ -2,7 +2,6 @@ FROM ubuntu:latest AS build
 
 RUN apt-get update
 RUN apt-get install openjdk-17-jdk -y
-RUN mkdir -p /home/user/.local/share/buildkit/runc-overlayfs/cachemounts/buildkit2300602544/bin
 
 
 COPY . . 
