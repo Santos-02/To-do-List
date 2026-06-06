@@ -46,6 +46,16 @@ The project structure follows the principles of single responsibility and depend
 
 ---
 
+### 📊 System Diagrams
+
+#### API Schema
+
+![API Schema](Schemas/API%20schema.jpeg)
+
+#### Database Schema
+
+![Database Schema](Schemas/Database%20schema.jpeg)
+
 ### ⚙️ How to Run the Project
 
 #### Requirements
