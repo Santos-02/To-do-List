@@ -8,6 +8,12 @@ The project follows a monolithic architecture and was built to ensure that each 
 
 ---
 
+### 📝 Documentation
+
+- [System Design Document](docs/System Design Document_API todolist.pdf)
+
+---
+
 ### ✨ Key Features
 
 * **User Management:** User registration with unique username validation.
