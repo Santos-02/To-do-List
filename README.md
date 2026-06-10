@@ -10,7 +10,7 @@ The project follows a monolithic architecture and was built to ensure that each 
 
 ### 📝 Documentation
 
-- [System Design Document](docs/System Design Document_API todolist.pdf)
+- [System Design Document](docs/System_Design_Document_API_todolist.pdf)
 
 ---
 
